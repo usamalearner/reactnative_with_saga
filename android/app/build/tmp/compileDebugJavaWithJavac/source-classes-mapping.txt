@@ -1,0 +1,14 @@
+com/saganative/MainActivity.java
+ com.saganative.MainActivity
+com/saganative/BuildConfig.java
+ com.saganative.BuildConfig
+com/saganative/ReactNativeFlipper.java
+ com.saganative.ReactNativeFlipper
+ com.saganative.ReactNativeFlipper$1
+ com.saganative.ReactNativeFlipper$2
+ com.saganative.ReactNativeFlipper$2$1
+com/saganative/MainApplication.java
+ com.saganative.MainApplication
+ com.saganative.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
